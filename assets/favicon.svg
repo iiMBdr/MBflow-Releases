@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="MBflow — video, motion and detail">
+ <rect width="128" height="128" fill="#000"/>
+ <rect x="4" y="4" width="120" height="120" fill="none" stroke="#fff" stroke-width="5"/>
+ <g transform="translate(19.2 24.8) scale(.7)">
+ <g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M44 35H91Q103 35 103 47V83Q103 95 91 95H36Q24 95 24 83V81M24 44Q24 35 36 35"/>
+  <path d="M13 51H38M9 64H32M17 77H38"/>
+ </g>
+ <path d="M55 49Q55 46 58 48L81 62Q84 64 81 66L58 80Q55 82 55 79Z" fill="#fff"/>
+ <path d="M104 17L108 27L119 31L108 35L104 46L100 35L89 31L100 27Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
+ </g>
+</svg>
