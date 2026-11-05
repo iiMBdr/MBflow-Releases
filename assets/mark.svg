@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="MBflow — video, motion and detail">
- <rect width="128" height="128" fill="#000"/>
- <rect x="4" y="4" width="120" height="120" fill="none" stroke="#fff" stroke-width="5"/>
- <g transform="translate(19.2 24.8) scale(.7)">
- <g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M44 35H91Q103 35 103 47V83Q103 95 91 95H36Q24 95 24 83V81M24 44Q24 35 36 35"/>
-  <path d="M13 51H38M9 64H32M17 77H38"/>
- </g>
- <path d="M55 49Q55 46 58 48L81 62Q84 64 81 66L58 80Q55 82 55 79Z" fill="#fff"/>
- <path d="M104 17L108 27L119 31L108 35L104 46L100 35L89 31L100 27Z" fill="#fff" stroke="#000" stroke-width="3" stroke-linejoin="round"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="220 400 790 450" role="img" aria-label="MBflow"><defs><linearGradient id="trail" x1="250" x2="490" gradientUnits="userSpaceOnUse"><stop stop-color="white" stop-opacity="0"/><stop offset="1" stop-color="white"/></linearGradient></defs><path fill="url(#trail)" d="M530 501 C562 455 606 445 641 475 L679 505 Q692 514 707 506 L651 586 C625 546 596 542 574 579 L465 751 Q443 795 393 795 L250 795 L250 727 L392 727 Q411 725 423 705 L441 677 L250 677 L250 612 L448 612 Q461 611 470 596 L489 565 L250 565 L250 501 Z"/><path fill="#fafafa" d="M420 824 C479 820 518 801 551 750 L720 488 C749 448 786 429 829 429 L982 429 L935 504 Q921 529 894 529 L831 529 C801 529 782 544 763 574 L647 756 Q612 824 558 824 Z M672 827 L790 627 Q817 580 865 580 L951 580 L909 648 Q897 672 870 672 L820 672 Q795 672 780 695 Z"/></svg>
