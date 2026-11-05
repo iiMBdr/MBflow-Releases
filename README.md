@@ -22,7 +22,7 @@ Same moment. Same framing. A different finish.
 
 Motion-aware blur gives fast camera movement a softer, more continuous look while protecting static HUD edges.
 
-*Silent presentation copies; the application retains source FPS and audio. Watch the MP4 comparisons: [VALORANT](https://github.com/iiMBdr/MBflow-Releases/releases/download/update-service-v1.2.0/valorant-comparison.mp4) · [Call of Duty](https://github.com/iiMBdr/MBflow-Releases/releases/download/update-service-v1.2.0/call-of-duty-comparison.mp4).*
+*Silent presentation copies; the application retains source FPS and audio. Watch the MP4 comparisons: [VALORANT](https://github.com/iiMBdr/MBflow-Releases/releases/download/update-service-v1.2.1/valorant-comparison.mp4) · [Call of Duty](https://github.com/iiMBdr/MBflow-Releases/releases/download/update-service-v1.2.1/call-of-duty-comparison.mp4).*
 
 ## Detail. Motion. Color.
 
@@ -49,7 +49,7 @@ Motion-aware blur gives fast camera movement a softer, more continuous look whil
 | **Offline** | Setting up without another application download. | MBflow, .NET, WinUI, FFmpeg and redistributable native dependencies. |
 | **Online** | A smaller installer and a connected computer. | Downloads the approved package and verifies its SHA256. |
 
-**MBflow 1.2.0:** [Download Offline](https://github.com/iiMBdr/MBflow-Releases/releases/download/v1.2.0/MBflow-Setup-Offline.exe) · [Download Online](https://github.com/iiMBdr/MBflow-Releases/releases/download/v1.2.0/MBflow-Setup-Online.exe) · [Checksums](https://github.com/iiMBdr/MBflow-Releases/releases/download/update-service-v1.2.0/SHA256SUMS.txt)
+**MBflow 1.2.1:** [Download Offline](https://github.com/iiMBdr/MBflow-Releases/releases/download/v1.2.1/MBflow-Setup-Offline.exe) · [Download Online](https://github.com/iiMBdr/MBflow-Releases/releases/download/v1.2.1/MBflow-Setup-Online.exe) · [Checksums](https://github.com/iiMBdr/MBflow-Releases/releases/download/update-service-v1.2.1/SHA256SUMS.txt)
 
 ![MBflow custom installer](assets/installer.png)
 
